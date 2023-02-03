@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # day-blog
 use vitepress to record something
 
@@ -13,3 +14,6 @@ use vitepress to record something
 
 ## 配置 github page 访问地址
 - bluestar123.github.io/day-blog/dist/     day-blog 换成你的仓库名
+=======
+# soloporridge.github.io
+>>>>>>> f726cc24fe52a18ff350145f89e56f2fc18a1eee
